@@ -1,3 +1,3 @@
-# Rack Fan Controller
+# Rack Hardware Projects
 
-Fan controller for Penn Elcom server enclosure
+Collection of hardware projects for a Penn Elcom server enclosure
