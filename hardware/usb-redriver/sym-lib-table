@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ng_interface_usb")(type "KiCad")(uri "${KIPRJMOD}/lib/nelgau-kicad-lib/symbols/ng_interface_usb.kicad_sym")(options "")(descr ""))
+)
